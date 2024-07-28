@@ -21,7 +21,7 @@ To run this application locally, you must have Node.js and npm installed on your
 5. Open your web browser and go to `http://localhost:5173` to view the application.
 
 ### Demo
-A live demo of this project is available at [https://asaggse.github.io/password-generator-react/](https://mdsaifalidev.rf.gd/password-generator/)
+A live demo of this project is available at https://mdsaifalidev.rf.gd/password-generator/
 
 ### Contributing
 If you have any suggestions or issues, feel free to open a pull request or issue on the GitHub repository.
